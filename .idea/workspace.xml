@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11334ca0-d7da-4db4-b711-c7c72e05cbd6" name="Changes" comment="">
+    <list default="true" id="11334ca0-d7da-4db4-b711-c7c72e05cbd6" name="Changes" comment="Atualizar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jupiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jupiter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Marte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Marte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mercurio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mercurio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Netuno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Netuno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Planeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Planeta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Saturno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saturno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemaSolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaSolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Terra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Terra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Urano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Urano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Venus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Venus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programa" />
@@ -79,11 +69,24 @@
       <option name="presentableId" value="Default" />
       <updated>1678487011437</updated>
       <workItem from="1678487012769" duration="30000" />
-      <workItem from="1678488266962" duration="5806000" />
+      <workItem from="1678488266962" duration="6759000" />
+      <workItem from="1678574290195" duration="619000" />
     </task>
+    <task id="LOCAL-00001" summary="Atualizar">
+      <created>1678494174756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678494174756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizar" />
   </component>
 </project>

@@ -19,8 +19,8 @@ public class Programa {
         if (indexPlaneta < 0 || indexPlaneta >= planetas.length) {
             System.out.println("Planeta inválido!");
     } else {
-            Planeta p = planetas[indexPlaneta];
-            System.out.println("Seu peso no planeta " + p.getNome() + " é de " + p.getPeso(peso) + " Newtowns.");
+            Planeta planeta = planetas[indexPlaneta];
+            System.out.println("Seu peso no planeta " + planeta.getNome() + " é de " + planeta.getPeso(peso) + " Newtowns.");
         }
 
         scanner.close();
